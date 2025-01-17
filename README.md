@@ -3,7 +3,7 @@
 ### *My personal goal is to have a life with purpose, impacting and serving people. I am passionate about challenges!*
 
 - 👨‍💻 Planning analyst
-- 📍  São Paulo, SP
+- 📍   São Paulo, SP
 - 🏦 Abbott Laboratórios do Brasil
 - 📚 Técnologo em Análise e Desenvolvimento de Sistemas
 
